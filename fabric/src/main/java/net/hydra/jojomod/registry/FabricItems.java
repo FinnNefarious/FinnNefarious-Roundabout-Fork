@@ -138,6 +138,8 @@ public class FabricItems {
             new StandDiscItem(new Item.Properties().stacksTo(1), new PowersCalifornia(null)));
     public static Item STAND_DISC_ACHTUNG = registerItem("achtung_baby_disc",
             new StandDiscItem(new Item.Properties().stacksTo(1), new PowersAchtungBaby(null)));
+    public static Item STAND_DISC_GLORY_DAYS = registerItem("glory_days_disc",
+            new StandDiscItem(new Item.Properties().stacksTo(1), new PowersGloryDays(null)));
 
    /* public static Item STAND_DISC_DIVER_DOWN = registerItem("diver_down_disc",
             new StandDiscItem(new Item.Properties().stacksTo(1), new PowersDiverDown(null)));
