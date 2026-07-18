@@ -662,6 +662,7 @@ public class FabricItems {
                         entries.accept(FANCY_LIGHTER);
                         entries.accept(STAND_DISC_OASIS);
                         entries.accept(MAX_STAND_DISC_OASIS);
+                        entries.accept(STAND_DISC_GLORY_DAYS);
 
 
                     }).build());
